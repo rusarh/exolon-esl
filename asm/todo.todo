@@ -1,0 +1,51 @@
+
+
+
+tidy naming:
+  ☐ destroyable
+    Obstacle
+      "blew up obstacles"
+      "large static obstacles"
+  ☐ rocket
+    BackPack rocket
+  ☐ my bullet
+    handled blaster
+  ☐ enemy
+    Aliens
+  ☐ 
+    "powerup two gun"
+  ☐ 
+    changing room
+  ☐ 
+      allien double-barrel gun
+  ☐ 
+      guided missle
+      "control beacon"
+  ☐ 
+      "birth pod"
+  ☐ 
+      laser beam barrier
+
+
+EXOLON INFO:
+  Programmer:
+    Raffaele Cecco
+  Publisher:
+    Hewson Consultants
+  player character:
+    Vitorc
+    "exoskeleton mode" -> Vitorc in exoskelet
+  Main character animator:
+    Nigel Brownjohn
+  This is the main piece of equipment you can pick up in Exolon. With this exoframe:
+  http://www.the-tipshop.co.uk/cgi-bin/info.pl?name=Exolon
+  HYPER-ALLOY EXOSKELETON
+  a) you can walk through mines.
+  !?!?!?!?! 
+  b) you are shielded from some but not all aliens.
+  !?!?!?!?! 
+  c) you no longer have to bend down or stand up to shoot the missiles from the double- barrelled
+  missile-launcher. 
+  нет бонуса в конце уровня
+
+
